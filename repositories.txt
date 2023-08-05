@@ -63,6 +63,7 @@ https://github.com/manuelbl/usb-pd-arduino
 https://github.com/shutch42/modmata
 https://github.com/sstaub/MCP_3208
 https://github.com/sstaub/MCP_23017
+https://github.com/Reefwing-Software/Reefwing-MPU6050
 https://github.com/Reefwing-Software/Reefwing-xIMU3
 https://github.com/Reefwing-Software/Reefwing-imuTypes
 https://github.com/SolderedElectronics/Soldered-8x8-MAX7219-LED-Matrix-Arduino-Library
